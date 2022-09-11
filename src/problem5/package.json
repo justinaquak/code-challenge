@@ -3,10 +3,16 @@
 "dependencies": {
     
     
+"dotenv": "^16.0.2",
+    
+    
 "ethers": "^5.7.0",
     
     
-"truffle": "^5.5.29"
+"truffle": "^5.5.29",
+    
+    
+"truffle-hdwallet-provider": "^1.0.17"
     
 }
 }
